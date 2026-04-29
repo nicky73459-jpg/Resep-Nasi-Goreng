@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #e67e22;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #d35400;
+  border-bottom: 2px solid #e67e22;
+  padding-bottom: 5px;
+}
+
+ul,
+ol {
+  line-height: 1.6;
+}
